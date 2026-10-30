@@ -1,0 +1,8 @@
+{
+  "name": "socreator",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "node -e \"setTimeout(()=>{},300000)\""
+  }
+}
